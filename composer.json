@@ -1,0 +1,14 @@
+{
+    "name": "petebowen/formguard",
+    "require": {
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Petebowen\\Formguard\\": "src"
+        }
+    }
+}
